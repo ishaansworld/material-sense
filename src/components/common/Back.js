@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import withStyles from '@material-ui/styles/withStyles';
-import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
-import Typography from '@material-ui/core/Typography';
+import withStyles from '@mui/styles/withStyles';
+import KeyboardArrowLeft from '@mui/icons/KeyboardArrowLeft';
+import Typography from '@mui/core/Typography';
 import { Link, withRouter } from 'react-router-dom';
 
 const styles = theme => ({

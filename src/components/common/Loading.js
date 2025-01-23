@@ -1,6 +1,6 @@
 import React from 'react';
-import Typography from '@material-ui/core/Typography';
-import withStyles from '@material-ui/styles/withStyles';
+import Typography from '@mui/core/Typography';
+import withStyles from '@mui/styles/withStyles';
 
 const styles = theme => ({
   loadingMessage: {

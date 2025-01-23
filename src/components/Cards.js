@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import withStyles from "@material-ui/styles/withStyles";
-import CssBaseline from "@material-ui/core/CssBaseline";
-import Grid from "@material-ui/core/Grid";
+import withStyles from "@mui/styles/withStyles";
+import CssBaseline from "@mui/core/CssBaseline";
+import Grid from "@mui/core/Grid";
 import CardItem from "./cards/CardItem";
 import Topbar from "./Topbar";
 import SectionHeader from "./typo/SectionHeader";

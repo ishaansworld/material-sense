@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import { Link, withRouter } from 'react-router-dom';
-import withStyles from '@material-ui/styles/withStyles';
-import Typography from '@material-ui/core/Typography';
-import Button from '@material-ui/core/Button';
+import withStyles from '@mui/styles/withStyles';
+import Typography from '@mui/core/Typography';
+import Button from '@mui/core/Button';
 import BaseDialog from './BaseDialog';
 import SwipeableViews from 'react-swipeable-views';
-import MobileStepper from '@material-ui/core/MobileStepper';
+import MobileStepper from '@mui/core/MobileStepper';
 import { autoPlay } from 'react-swipeable-views-utils';
 
 const logo = require('../../images/logo.svg');

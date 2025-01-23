@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import withStyles from '@material-ui/styles/withStyles';
-import Dialog from '@material-ui/core/Dialog';
-import DialogContent from '@material-ui/core/DialogContent';
-import DialogContentText from '@material-ui/core/DialogContentText';
-import DialogTitle from '@material-ui/core/DialogTitle';
+import withStyles from '@mui/styles/withStyles';
+import Dialog from '@mui/core/Dialog';
+import DialogContent from '@mui/core/DialogContent';
+import DialogContentText from '@mui/core/DialogContentText';
+import DialogTitle from '@mui/core/DialogTitle';
 
 const styles = theme => ({
   container: {

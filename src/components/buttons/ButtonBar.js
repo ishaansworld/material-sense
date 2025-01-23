@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import withStyles from '@material-ui/styles/withStyles';
-import Button from '@material-ui/core/Button';
+import withStyles from '@mui/styles/withStyles';
+import Button from '@mui/core/Button';
 
 const styles = theme => ({
   primary: {

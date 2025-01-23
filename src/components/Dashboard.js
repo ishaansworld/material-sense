@@ -1,16 +1,16 @@
 import React, { Component } from "react";
-import withStyles from "@material-ui/styles/withStyles";
+import withStyles from "@mui/styles/withStyles";
 import { withRouter, Link } from "react-router-dom";
-import CssBaseline from "@material-ui/core/CssBaseline";
-import Paper from "@material-ui/core/Paper";
-import Typography from "@material-ui/core/Typography";
-import Grid from "@material-ui/core/Grid";
-import Slider from "@material-ui/core/Slider";
-import Button from "@material-ui/core/Button";
-import Avatar from "@material-ui/core/Avatar";
+import CssBaseline from "@mui/core/CssBaseline";
+import Paper from "@mui/core/Paper";
+import Typography from "@mui/core/Typography";
+import Grid from "@mui/core/Grid";
+import Slider from "@mui/core/Slider";
+import Button from "@mui/core/Button";
+import Avatar from "@mui/core/Avatar";
 import SimpleLineChart from "./SimpleLineChart";
 import Months from "./common/Months";
-import VerifiedUserIcon from "@material-ui/icons/VerifiedUser";
+import VerifiedUserIcon from "@mui/icons/VerifiedUser";
 import Loading from "./common/Loading";
 
 import Topbar from "./Topbar";
